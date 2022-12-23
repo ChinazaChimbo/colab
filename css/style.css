@@ -1,0 +1,12 @@
+#image{
+    height: auto;
+    max-width: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#img-div{
+    width: 100%;
+    height: 200px;
+}
